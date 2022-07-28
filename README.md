@@ -5,7 +5,7 @@ Esta es una pequeña guía para aprender de todo sobre Javascript, a mi me encan
 ## Javascript Esencial
 
 * Carlos Azaustre (2016): Aprende Javascript. Desconocido.
-* Ethan Brown (2016): Javascript Essentials. O'Reilly Media.
+* Ethan Brown (2016): Learning Javascript. O'Reilly Media.
 
 ## Asincronismo
 
@@ -27,6 +27,7 @@ Esta es una pequeña guía para aprender de todo sobre Javascript, a mi me encan
 * Diego De Granda (...): Curso de Estructuras de Datos con Javascript. Platzi. Recuperado de https://platzi.com/cursos/estructuras-datos/
 
 * Michael McMillan (2016): Data Structures and Algorithms. O'Reilly Media.
+* Al Sweigart (2022): The Recursive Book of Recursion. No Starch Press.
 
 Otras referencias:
 
@@ -65,3 +66,12 @@ Otras referencias:
 
 * Fernando Herrera (...): Node. De Cero a Experto. Udemy.
 * Ethan Brown (2019): Web Development with Node and Express. O'Reilly Media.
+
+### Web Design
+
+* Jennifer Niederst Robbins (2018): Learning Web Design. O'Reilly Media.
+
+### WebSockets
+
+* Andrew Lombardi (2015): WebSocket: Lightweight Client-Server Communications. O'Reilly Media.
+* Fernando Herrera (...): React: Aplicaciones en tiempo real con Socket-io. Udemy.
